@@ -1,0 +1,37 @@
+Lederer sagt auch es ist sinnvoll zunächst Stokes zu besprechen.
+
+Lecture 22 korreliert mit dem Navier Stokes Beispiel von den i-Tutorials.
+
+Dieses zu verstehen wäre ein wichtiger Ausgangspunkt um später die DG H(div)
+Version von Christoph Lehrenfeld zu verstehen.
+
+Wichtige Stichwörter: Implicit/Explicit Euler. IMEX. Taylor Hood. Discontinuous Galerkin.
+H(div). Piola Transformation.
+
+
+
+Idee zur Präsentation:
+
+1. Stokes:
+- Strong Form
+- Weak Form (+ Solvability: Brezzi or whatever is needed)
+- FEM Approximation (+ Solvability)
+
+2. UNSTEADY/INSTATIONARY (!) Navier-Stokes (i.e. Stokes + Convection term + Time derivative)
+(für diesen Part ist generell L22 zu empfehlen!)
+- Strong Form
+- Weak Form (+ Solvability)
+- FEM Approximation (+ Solvability -> see Lecture 22 bezüglich paar Kommentaren von Lederer zu
+	Connection mit Stokes und Solvability)
+- Time stepping (i.e. IMEX)
+
+2.a)
+-  H(div) conforming FEM Version von Stokes (Lehrenfeld)
+
+
+
+Weiters:
+
+Linear Elasticity (Timoschenko-Balken) aber bei uns glaub ich Euler-Bernoulli (Outlet verbiegt 	sich mit und verschiebt sich nicht nur nach oben)
+
+Deformation
