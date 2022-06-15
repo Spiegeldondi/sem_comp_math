@@ -28,10 +28,13 @@ Idee zur Präsentation:
 2.a)
 -  H(div) conforming FEM Version von Stokes (Lehrenfeld)
 
+2.b)
+- Schöberl's Modifikation am upwind-code (+ Paper)
 
+3. Deformation
+- Linear Elasticity (Timoschenko-Balken) aber bei uns glaub ich Euler-Bernoulli (Outlet verbiegt 	sich mit und verschiebt sich nicht nur nach oben)
 
-Weiters:
+4. Code erklären
 
-Linear Elasticity (Timoschenko-Balken) aber bei uns glaub ich Euler-Bernoulli (Outlet verbiegt 	sich mit und verschiebt sich nicht nur nach oben)
-
-Deformation
+Additional:
+(In)stabilität erläutern
