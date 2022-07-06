@@ -1,2 +1,2 @@
 ipywidgets==7.7.1
-ngsolve==6.2.2202
+ngsolve>=6.2.2203.dev0
