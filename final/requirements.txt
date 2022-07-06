@@ -4,6 +4,15 @@
 #
 #    pip-compile requirements.in
 #
+numpy
+scipy
+matplotlib
+ipywidgets
+RISE
+jupyter_contrib_nbextensions
+jupyter_nbextensions_configurator
+ngsolve>=6.2.2201
+webgui_jupyter_widgets 
 argon2-cffi==21.3.0
     # via notebook
 argon2-cffi-bindings==21.2.0
