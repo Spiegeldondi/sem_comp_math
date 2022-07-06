@@ -1,2 +1,3 @@
+numpy==1.22.3
 ipywidgets==7.7.1
-ngsolve>=6.2.2203.dev0
+ngsolve>=6.2.2201
